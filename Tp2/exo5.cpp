@@ -116,5 +116,5 @@ int main()
     binaire_rec(n, n1, n2, n3, n4, n5, n6, n7, n8, pos);
 
     cout << convert_bin_dec(n1, n2, n3, n4, n5, n6, n7, n8) << "->" << n1 << n2 << n3 << n4 << n5 << n6 << n7 << n8 << endl;
-    return (0);
+    return (1);
 }
